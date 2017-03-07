@@ -1,0 +1,14 @@
+{
+    "client_id":"",
+    "client_secret":"",
+    "term": {
+        "latitude":0.0,
+        "longitude":0.0,
+        "radius": 10000,
+        "term": "food",
+        "price": "1,2,3",
+        "open_now":true
+    },
+    "repeat": 7,
+    "limit": 80
+}
